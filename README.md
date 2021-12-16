@@ -1,7 +1,7 @@
 # score-keeper
 HTML / CSS / JAVASCRIPT
 
-![alt text](https://github.com/haokipiit/task-list/blob/master/image.jpg?raw=true)
+![alt text](https://github.com/haokipiit/score-keeper/blob/master/image.jpg?raw=true)
 
 
 About Score Keeper:
